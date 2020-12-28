@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703643158682",
+    "firebase_url": "https://mapsapp-247521.firebaseio.com",
+    "project_id": "mapsapp-247521",
+    "storage_bucket": "mapsapp-247521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703643158682:android:abebee7f506564f7",
+        "android_client_info": {
+          "package_name": "com.example.niteclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703643158682-468e0s104red8j52vva2u6r1qhasu99m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.niteclub",
+            "certificate_hash": "c301b7e2b1447fc2ba8a1a014b099f2b2a5b861b"
+          }
+        },
+        {
+          "client_id": "703643158682-sskbd8mh28od5pjb9gpbueh3k2574a4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjj2V1c6rnl95VDqA9Ca1DhFvML5bwigo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703643158682-sskbd8mh28od5pjb9gpbueh3k2574a4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
